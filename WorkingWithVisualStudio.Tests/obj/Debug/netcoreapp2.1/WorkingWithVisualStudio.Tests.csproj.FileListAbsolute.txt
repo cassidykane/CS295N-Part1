@@ -1,0 +1,17 @@
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.deps.json
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.runtimeconfig.json
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.runtimeconfig.dev.json
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.dll
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.pdb
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\WorkingWithVisualStudio.dll
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp2.1\WorkingWithVisualStudio.pdb
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.csprojAssemblyReference.cache
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.AssemblyInfoInputs.cache
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.AssemblyInfo.cs
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.csproj.CopyComplete
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.dll
+C:\Users\sleeper\Desktop\Lab5\06 - Working with Visual Studio\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp2.1\WorkingWithVisualStudio.Tests.pdb
